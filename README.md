@@ -1,0 +1,1 @@
+# ergo-trading-bot
